@@ -1,6 +1,9 @@
 # graphql-authz
 
-[![Coverage Status](https://coveralls.io/repos/github/casbin/graphql-authz/badge.svg?branch=master)](https://coveralls.io/github/casbin/graphql-authz?branch=master)[![Go](https://github.com/casbin/graphql-authz/actions/workflows/ci.yml/badge.svg)](https://github.com/casbin/graphql-authz/actions/workflows/ci.yml)[![Release](https://img.shields.io/github/release/casbin/graphql-authz.svg)](https://github.com/casbin/graphql-authz/releases/latest)[![Go Report Card](https://goreportcard.com/badge/github.com/casbin/graphql-authz)](https://goreportcard.com/report/github.com/casbin/graphql-authz)
+[![Coverage Status](https://coveralls.io/repos/github/casbin/graphql-authz/badge.svg?branch=master)](https://coveralls.io/github/casbin/graphql-authz?branch=master)
+[![Go](https://github.com/casbin/graphql-authz/actions/workflows/ci.yml/badge.svg)](https://github.com/casbin/graphql-authz/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/release/casbin/graphql-authz.svg)](https://github.com/casbin/graphql-authz/releases/latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/casbin/graphql-authz)](https://goreportcard.com/report/github.com/casbin/graphql-authz)
 
 graphql-authz is a casbin binding of graphql, something like restful api. There're actions, like `enforce`, `getPolicies`, `addPolicy`, `removePolicy`, `updatePolicy`.
 
